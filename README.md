@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @medlenmage
+- 👋 Hi, I’m Joshua Medlen
 - 👀 I’m interested in Gaming, Coding, Sports, and....PASTA
 - 🌱 I’m currently learning Django Rest_Framework and soon to be C#
 - 📫 How to reach me joshua246@gmail.com or https://www.linkedin.com/in/joshuamedlen/
